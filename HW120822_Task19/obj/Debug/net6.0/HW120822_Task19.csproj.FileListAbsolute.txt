@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\bin\Debug\net6.0\HW120822_Task19.exe
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\bin\Debug\net6.0\HW120822_Task19.deps.json
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\bin\Debug\net6.0\HW120822_Task19.runtimeconfig.json
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\bin\Debug\net6.0\HW120822_Task19.dll
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\bin\Debug\net6.0\HW120822_Task19.pdb
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\HW120822_Task19.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\HW120822_Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\HW120822_Task19.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\HW120822_Task19.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\HW120822_Task19.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\HW120822_Task19.dll
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\refint\HW120822_Task19.dll
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\HW120822_Task19.pdb
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\HW120822_Task19.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Work\C#\Seminar_C_120822\HW120822_Task19\obj\Debug\net6.0\ref\HW120822_Task19.dll
