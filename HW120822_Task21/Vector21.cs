@@ -17,8 +17,8 @@ namespace Vector
             Program initial = new Program();
             InitialSetting aDot = new InitialSetting(initial);
             InitialSetting bDot = new InitialSetting(initial);
-            Console.WriteLine(aDot.CoorAxes[0] + " " + aDot.CoorAxes[1] + " " + aDot.CoorAxes[2]);
-            Console.WriteLine(bDot.CoorAxes[0] + " " + bDot.CoorAxes[1] + " " + bDot.CoorAxes[2]);
+            Console.WriteLine($"Координаты точки А: {aDot.CoorAxes[0]} {aDot.CoorAxes[1]} {aDot.CoorAxes[2]}");
+            Console.WriteLine($"Координаты точки B: {bDot.CoorAxes[0]} {bDot.CoorAxes[1]} {bDot.CoorAxes[2]}");
             ExecMethod execVector = new ExecMethod(aDot, bDot);
             Console.WriteLine($"Расстояние между двумя точками в 3D пространстве равно {execVector.LengthVector}");
 

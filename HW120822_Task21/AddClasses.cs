@@ -12,8 +12,7 @@ namespace Vector
             {
                 sum += Convert.ToInt32(Math.Pow((obj.CoorAxes[i] - obj1.CoorAxes[i]), 2));
             }
-            LengthVector = Math.Sqrt(sum);
-
+            LengthVector = Math.Round(Math.Sqrt(sum), 2, MidpointRounding.ToEven);
         }
     }
 }
